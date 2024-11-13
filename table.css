@@ -1,0 +1,21 @@
+.header{
+    width: 200 px;
+    height: 100 px;
+    background-color: aquamarine;
+}
+.menu{
+    width: 200 px;
+    height: 100 px;
+    background-color: rgb(106, 113, 163);
+}
+.maincontent{
+    width: 200 px;
+    height: 100 px;
+    background-color: rgb(85, 152, 206);
+}
+.footer{
+    width: 200 px;
+    height: 100 px;
+    background-color: rgb(108, 146, 146);
+
+}

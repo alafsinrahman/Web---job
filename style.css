@@ -1,0 +1,36 @@
+table{
+    background-color: bisque;
+    color: brown;
+}
+    
+
+.Box{
+    width: 200 px;
+    height: 200 px;
+    background-color: burlywood;
+}
+#Afsin{
+    width: 300 px;
+    height: 200 px;
+    background-color: cadetblue;
+}
+.Box{
+    width: 400 px;
+    height: 300 px;
+    background-color: rgb(26, 70, 97);
+}
+#Afsin{
+    width: 200 px;
+    height: 200 px;
+    background-color: rgb(141, 101, 133);
+}
+.Box{
+    width: 200 px;
+    height: 200 px;
+    background-color: rgb(188, 79, 48);
+}
+#Afsin{
+    width: 200 px;
+    height: 200 px;
+    background-color: rgb(124, 172, 63);
+}

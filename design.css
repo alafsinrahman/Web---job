@@ -1,0 +1,39 @@
+ul{
+    list-style: none;
+    display: flex;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    
+}
+ul li a {
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    color: #000;;
+}
+ul li a{
+    border-right: 3px solid #000;
+}
+ul li a:hover {
+    color: rebeccapurple;
+}
+.div{
+
+}
+.box1{
+    width: 40px;
+    height: 30px;
+    background-color: darkolivegreen;
+}
+.box2{
+    width: 40px;
+    height: 30px;
+    background-color: rgb(126, 134, 114);
+}
+.box3{
+    width: 40px;
+    height: 30px;
+    background-color: darkolivegreen;
+}
